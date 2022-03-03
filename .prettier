@@ -1,0 +1,8 @@
+{
+  "tabWidth": 2,
+  "primWidth": 120,
+  "singleQuote": true,
+  "trailineComma": "es5",
+  "arrowParens": "avaid",
+  "semi": true
+}
